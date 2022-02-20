@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="ClearableEditText">
+        <attr name="dora_clearIcon" format="reference"/>
+        <attr name="dora_clearIconVerticalMargin" format="dimension|reference"/>
+        <attr name="dora_clearIconMarginLeft" format="dimension|reference"/>
+        <attr name="dora_clearIconMarginRight" format="dimension|reference"/>
+    </declare-styleable>
+</resources>
